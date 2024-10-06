@@ -14,7 +14,7 @@ RAW-PointerToRawData=RVA-VirtualAddress=（数据内容宽度不变）
 
 
 
-##  问：正常未被压缩的PE文件中，已知一个RVA=Y值，求File Offset=？
+##  问：正常未被压缩的PE文件中，已知一个RVA=Y值，求File Offset=？即RAW=？
 要求输出RVA在哪个节？
 打印出内存中该节的内存起始位置(偏移)VirtualAddress?
 打印出文件中对应节的PointerRawData的位置？
